@@ -55,4 +55,4 @@ The primary objective of this project is to build a robust and accurate laptop p
 
 **9.Voting Classifier**:A Voting Classifier was implemented by combining the Random Forest, Gradient Boosting, and XGBoost algorithms to collectively make predictions and enhance overall model performance.
 
-10.The ultimate outcome revealed that the **Random Forest model** achieved the highest accuracy of **88.2%**
+10.The ultimate outcome revealed that the **Random Forest model** achieved the highest accuracy of **88.2%**.
