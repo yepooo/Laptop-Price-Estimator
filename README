@@ -34,7 +34,7 @@ The primary objective of this project is to build a robust and accurate laptop p
 
 **Working Flow**
 
- **1.Import Libraries** : Import necessary Python libraries, including scikit-learn, pandas, numpy, seaborn, and matplotlib.
+ **1.Import Libraries** : Import necessary Python libraries, including scikit-learn, pandas, numpy, seaborn, and matplotlib
 
 **2.Load Dataset**: Load the dataset into a pandas DataFrame to work with the data.
 
